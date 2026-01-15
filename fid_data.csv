@@ -14,10 +14,10 @@ Observation_No,Species,Grass,Neighbours,SD,Treatment,FID,Immediate_flight
 113,Common myna,TRUE,None,12,angle,1.9,FALSE
 114,Monk parakeet,TRUE,None,12,control,2,FALSE
 115,Common myna,TRUE,None,11.1,control,4.4,FALSE
-116,Upupa,TRUE,None,14.5,angle,3.7,FALSE
+116,Euarasian hoope,TRUE,None,14.5,angle,3.7,FALSE
 117,Common myna,FALSE,None,11,angle,2,FALSE
 118,Common myna,TRUE,None,9.4,angle,4.1,FALSE
-119,Upupa,FALSE,None,9.4,control,2.4,FALSE
+119,Euarasian hoope,FALSE,None,9.4,control,2.4,FALSE
 120,Common myna,TRUE,None,11.7,angle,1.8,FALSE
 121,Monk parakeet,TRUE,P,10.4,angle,1.8,FALSE
 122,White wagtail,TRUE,None,11.9,angle,7.5,TRUE
@@ -25,19 +25,19 @@ Observation_No,Species,Grass,Neighbours,SD,Treatment,FID,Immediate_flight
 124,Common myna,TRUE,None,9.8,angle,NA,FALSE
 125,Common myna,FALSE,None,9.7,control,4.9,FALSE
 126,Common myna,FALSE,None,11.7,control,4.2,FALSE
-127,Upupa,TRUE,None,14.8,control,4.4,FALSE
-128,Upupa,TRUE,None,10.7,angle,2.5,FALSE
+127,Euarasian hoope,TRUE,None,14.8,control,4.4,FALSE
+128,Euarasian hoope,TRUE,None,10.7,angle,2.5,FALSE
 229,Monk parakeet,TRUE,G,14,angle,3,FALSE
 230,Monk parakeet,TRUE,G,12,control,4.5,FALSE
 231,Monk parakeet,TRUE,G,12,control,1.5,FALSE
-232,Upupa,TRUE,None,11,angle,3.5,TRUE
-233,Upupa,TRUE,None,13,control,8.2,FALSE
-234,Upupa,TRUE,None,12,control,4,FALSE
+232,Euarasian hoope,TRUE,None,11,angle,3.5,TRUE
+233,Euarasian hoope,TRUE,None,13,control,8.2,FALSE
+234,Euarasian hoope,TRUE,None,12,control,4,FALSE
 235,Monk parakeet,TRUE,G,10.2,angle,3.3,FALSE
 236,Monk parakeet,TRUE,G,12.5,control,2,TRUE
 237,Common myna,TRUE,None,10,control,4,FALSE
 238,Monk parakeet,TRUE,G,9.2,angle,1.5,FALSE
-239,Upupa,TRUE,None,12,control,5.1,FALSE
+239,Euarasian hoope,TRUE,None,12,control,5.1,FALSE
 240,Monk parakeet,TRUE,G,10,control,1,TRUE
 241,Monk parakeet,TRUE,G,10.8,angle,3,FALSE
 242,Monk parakeet,TRUE,None,11.8,control,3,FALSE
